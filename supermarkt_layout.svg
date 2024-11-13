@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="supermarkt_layout.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.44261729"
+     inkscape:cx="330.98572"
+     inkscape:cy="467.67265"
+     inkscape:window-width="1128"
+     inkscape:window-height="997"
+     inkscape:window-x="559"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="1"
+       inkscape:label="Gemüse">
+      <path
+         style="color:#000000;fill:#d3d82a;-inkscape-stroke:none"
+         d="M -2.8259278e-7,112.50833 V 78.002552 H 12.492945 24.98589 v 34.505778 34.50578 H 12.492945 -2.8259278e-7 Z"
+         id="path1" />
+      <path
+         style="color:#000000;fill:#000000;-inkscape-stroke:none"
+         d="m -0.0078125,77.996094 v 34.511716 34.51367 H 12.492188 24.992187 V 112.50781 77.996094 H 12.492188 Z m 0.015625,0.01367 H 12.492188 24.978516 v 34.498044 34.5 H 12.492188 0.0078125 v -34.5 z"
+         id="path2" />
+    </g>
+    <path
+       id="2"
+       style="fill:#0b00fd;stroke:#000000;stroke-width:0.0141111"
+       d="M 0,147.01411 H 24.985889 V 272.00002 H 0 Z"
+       inkscape:label="Milchprodukte" />
+    <path
+       id="3"
+       style="fill:#a84c4c;stroke:#000000;stroke-width:0.0141111"
+       d="M 24.999998,272.01413 H 185.00001 v 24.98589 H 24.999998 Z"
+       inkscape:label="Süßwaren" />
+    <path
+       id="4"
+       style="fill:#fe060f;stroke:#000000;stroke-width:0.0141111"
+       d="M 185.01411,202.01413 H 210 v 69.98589 h -24.98589 z"
+       inkscape:label="Fleisch" />
+    <path
+       id="5"
+       style="fill:#feab06;stroke:#000000;stroke-width:0.0141111"
+       d="M 185.01411,107.01413 H 210 v 94.98589 h -24.98589 z"
+       inkscape:label="Backwaren" />
+    <path
+       id="6"
+       style="fill:#fe06fe;stroke:#000000;stroke-width:0.0141111"
+       d="M 185.01411,0 H 210 v 107.01413 h -24.98589 z"
+       inkscape:label="Alkoholische Getränke" />
+    <path
+       id="9"
+       style="fill:#b700b7;stroke:#000000;stroke-width:0.0141111"
+       d="m 59.770497,184.48943 h 89.985883 v 24.98589 H 59.770497 Z"
+       inkscape:label="Haushaltprodukte" />
+    <path
+       id="8"
+       style="fill:#16cbe2;stroke:#000000;stroke-width:0.0141111"
+       d="m 59.770496,159.50354 h 89.985884 v 24.98589 H 59.770496 Z"
+       inkscape:label="Alkoholfreie Getränke" />
+    <g
+       id="7"
+       inkscape:label="Früchte">
+      <g
+         id="g24">
+        <g
+           id="g23">
+          <path
+             id="rect22-9-7-7-8"
+             style="fill:#9eff0e;fill-opacity:1;stroke:#000000;stroke-width:0.0141111"
+             inkscape:transform-center-x="-1.6003952"
+             inkscape:transform-center-y="48.902232"
+             d="M 59.763277 78.248454 L 59.763277 128.23403 L 86.721322 128.23403 L 86.721322 78.248454 L 59.763277 78.248454 z M 86.735274 78.248454 L 86.735274 103.23401 L 149.75623 103.23401 L 149.75623 78.248454 L 86.735274 78.248454 z " />
+        </g>
+      </g>
+    </g>
+    <path
+       id="11"
+       style="fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       inkscape:transform-center-x="0.20612218"
+       inkscape:transform-center-y="-6.4310119"
+       d="m 47.367609,83.241203 a 4.9929442,4.9929447 0 0 1 -4.992945,4.992945 4.9929442,4.9929447 0 0 1 -4.992944,-4.992945 4.9929442,4.9929447 0 0 1 4.992944,-4.992944 4.9929442,4.9929447 0 0 1 4.992945,4.992944 z"
+       inkscape:label="Start" />
+    <path
+       id="12"
+       style="fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       inkscape:transform-center-x="0.20612218"
+       inkscape:transform-center-y="-6.4310119"
+       d="m 159.74227,39.12413 a 4.9929442,4.9929447 0 0 1 -4.99294,4.992945 4.9929442,4.9929447 0 0 1 -4.99295,-4.992945 4.9929442,4.9929447 0 0 1 4.99295,-4.992944 4.9929442,4.9929447 0 0 1 4.99294,4.992944 z"
+       inkscape:label="Ende" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="91.500381"
+       y="93.368095"
+       id="text49-3"><tspan
+         sodipodi:role="line"
+         id="tspan50-7"
+         x="91.500381"
+         y="93.368095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Früchte</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="39.935535"
+       y="85.806076"
+       id="text49-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-76"
+         x="39.935535"
+         y="85.806076"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="152.3102"
+       y="41.689007"
+       id="text49-3-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-76-6"
+         x="152.3102"
+         y="41.689007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="64.583839"
+       y="174.64059"
+       id="text49-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-7"
+         x="64.583839"
+         y="174.64059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Alkohohlfreie Getränke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="73.423958"
+       y="198.95297"
+       id="text49-3-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-7-3"
+         x="73.423958"
+         y="198.95297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Haushaltprodukte</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="87.271545"
+       y="287.15115"
+       id="text49-3-3-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-7-3-0"
+         x="87.271545"
+         y="287.15115"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Süßwaren</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="224.98695"
+       y="-195.49739"
+       id="text49-3-3-0-3-3"
+       inkscape:transform-center-x="25.350946"
+       inkscape:transform-center-y="-70.982687"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-7-3-0-5"
+         x="224.98695"
+         y="-195.49739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Fleisch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="135.20091"
+       y="-194.88017"
+       id="text49-3-3-0-3-3-5"
+       inkscape:transform-center-x="25.350962"
+       inkscape:transform-center-y="-70.982692"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-7-3-0-5-1"
+         x="135.20091"
+         y="-194.88017"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Backwaren</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="13.032816"
+       y="-194.88017"
+       id="text49-3-3-0-3-3-5-2"
+       inkscape:transform-center-x="25.350962"
+       inkscape:transform-center-y="-70.982692"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-7-3-0-5-1-0"
+         x="13.032816"
+         y="-194.88017"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Alkohohlische Getränke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="98.165222"
+       y="-9.9349594"
+       id="text49-3-8"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-0"
+         x="98.165222"
+         y="-9.9349594"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Gemüse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.1522px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#acacac;fill-opacity:0.635294;stroke:#000000;stroke-width:0.0141111"
+       x="184.50082"
+       y="-10.522348"
+       id="text49-3-8-3"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan50-7-0-9"
+         x="184.50082"
+         y="-10.522348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.635294">Milchprodukte</tspan></text>
+    <g
+       id="10"
+       transform="translate(0.00705,-2.99775e-4)"
+       inkscape:label="Ein-/Ausgang">
+      <path
+         id="rect22-9-7-5"
+         style="fill:#787878;stroke:#000000;stroke-width:0.0141112"
+         d="M 0.00705555,0.00705555 H 149.74933 V 78.241804 H 0.00705555 Z" />
+      <path
+         id="rect22-9-7-5-4"
+         style="fill:#787878;stroke:#000000;stroke-width:0.0141112"
+         d="m 0,272.01413 h 24.999998 v 24.98586 H 0 Z" />
+      <path
+         id="rect22-9-7-5-4-9"
+         style="fill:#787878;stroke:#000000;stroke-width:0.0141112"
+         inkscape:transform-center-x="-0.90069206"
+         inkscape:transform-center-y="-6.7551905"
+         d="m 184.99295,272.00708 h 25 v 24.98586 h -25 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.014;stroke-dasharray:none"
+       x="50.011971"
+       y="40.977592"
+       id="text51"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.014;stroke-dasharray:none"
+         x="50.011971"
+         y="40.977592">Ein-/ Ausgang</tspan></text>
+    <path
+       id="WP1"
+       style="stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 44.867203,112.50833 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="WP1 Gemüse" />
+    <path
+       id="EP1"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 44.867203,143.86879 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="EP1" />
+    <path
+       id="EP2"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 44.871193,225.669 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="EP2" />
+    <path
+       id="EP3"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 44.871193,252.81526 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="EP3" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.0140001"
+       id="WP2"
+       cx="42.378193"
+       cy="209.48238"
+       r="2.493"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       inkscape:label="WP2 Milchprodukte" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.0140001"
+       id="WP3"
+       cx="104.83982"
+       cy="252.81526"
+       r="2.493"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       inkscape:label="WP3 Süßwaren" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.0140001"
+       id="WP9"
+       cx="104.83982"
+       cy="225.66891"
+       r="2.493"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       inkscape:label="WP9 Haushaltprodukte" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.0140001"
+       id="WP4"
+       cx="167.38524"
+       cy="237.00708"
+       r="2.493"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       inkscape:label="WP4 Fleisch" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.0140001"
+       id="WP5"
+       cx="167.38524"
+       cy="154.50708"
+       r="2.493"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       inkscape:label="WP5 Backwaren" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.0140001"
+       id="WP6"
+       cx="167.38524"
+       cy="53.507065"
+       r="2.493"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       inkscape:label="WP6 Alkoholische Getränke" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.0140001"
+       id="WP8"
+       cx="105"
+       cy="143.86879"
+       r="2.493"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       inkscape:label=" WP8 Alkohlfreie Getränke" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.0140001"
+       id="WP7"
+       cx="104.75975"
+       cy="118.32405"
+       r="2.493"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       inkscape:label="WP7 Früchte" />
+    <path
+       id="EP4"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 169.87824,252.81526 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="EP4" />
+    <path
+       id="EP5"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 169.87824,225.66892 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="EP5" />
+    <path
+       id="EP6"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 169.87824,143.86879 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="EP6" />
+    <path
+       id="EP7"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 169.87824,118.32405 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="EP7" />
+    <path
+       id="EP8"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.0140001"
+       inkscape:transform-center-x="2.2076882"
+       inkscape:transform-center-y="-6.8237636"
+       d="m 169.87824,39.124131 a 2.493,2.493 0 0 1 -2.493,2.493 2.493,2.493 0 0 1 -2.493,-2.493 2.493,2.493 0 0 1 2.493,-2.493 2.493,2.493 0 0 1 2.493,2.493 z"
+       inkscape:label="EP8" />
+  </g>
+</svg>
